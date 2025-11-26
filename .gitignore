@@ -26,7 +26,7 @@ override.tf.json
 
 # Lock file (optional but usually committed)
 # Uncomment if you don't want it in repo
-# .terraform.lock.hcl
+ .terraform.lock.hcl
 
 # IDE and editor folders
 .vscode/
